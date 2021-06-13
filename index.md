@@ -34,12 +34,12 @@ Spring 2020 –  Current
 - Design of QCE dashboard and EDI Application tools for Supply chain, based on node.js and Typescript for interoperability of QAD systems, working  different data interconnect of  a AWS cloud based server.
 
 ---
-### Projects
-- [IotPanel](http://example.com/)
-- [GlobalchainCare](http://example.com/)
-- [Knolechain](http://example.com/)
-- [mqttme](http://example.com/)
-- [mexWallet](http://example.com/)
+### Personal Projects
+- [GlobalchainCare]ERC20 SmartContract based dapp for international Vaccine record personal logging ( Solidity, React, nodeJS ) (http://example.com/)
+- [IotPanel] IOT Domotics Software Control Panel( C#,Python and MQTT protocol )(https://github.com/giulianfrisoni/Iot-Panel)
+- [Knolechain]Social Knowledge sharing network ( Solidity, React, nodeJS ) (http://example.com/)
+- [mqttme]MQTT protocol server control tool ( C# and MQTT protocol )(https://github.com/giulianfrisoni/MQTTme)
+- [mexWallet] Crypto Wallet for Mexico ( Solidity, React, nodeJS ) (http://example.com/)
 
 ---
 ### Skills
