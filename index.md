@@ -1,35 +1,34 @@
-## Portfolio
+## Hello i am Giulian i am a Software developer that loves to develop and design code to make a better future
 
 ---
 
 ### What i love to do
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Programming]
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Problem solving]
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Learn and be updated]
 
 ---
 
 ### Experience
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 ### Projects
-
-
+- [IotPanel](http://example.com/)
+- [GlobalchainCare](http://example.com/)
+- [Knolechain](http://example.com/)
+- [mqttme](http://example.com/)
+- [mexWallet](http://example.com/)
 
 ---
 ### Skills
-
+-Programming Languages
+--C#.NET; SQL; JavaScript,Prodigy; HTML,Progress 4GL
+-Version control
+--Visual Studio; VIsual Code,GIT, Electronic Data Interchange
