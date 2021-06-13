@@ -44,11 +44,20 @@ Spring 2020 –  Current
 ---
 ### Skills
 #### Programming Languages
--- C#.NET; SQL; JavaScript,Prodigy; HTML,Progress 4GL
+- C#
+- Solidity
+- JavaScript
+- HTML
+- Progress 4GL
+
 #### Frameworks
 - nodeJS
 - truffle
 - Net# 4.5
 - web3
+- EVM
+
 #### Version control and Utilities
--- GIT, Electronic Data Interchange, Ganache,npm
+- GIT
+- Ganache
+- npm
