@@ -5,7 +5,7 @@
 ### What i love to do
 
 [Programming]
-
+I love to make purpose og what i have learned and propose technical solutions, develop them and provide reliability of testing, performance and optimization of results
 ---
 [Problem solving]
 
