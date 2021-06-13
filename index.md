@@ -48,13 +48,14 @@ Spring 2020 –  Current
 - Solidity
 - JavaScript
 - HTML
+- Python
 - Progress 4GL
 
 #### Frameworks
 - nodeJS
 - truffle
 - Net# 4.5
-- web3
+- web3.js web3.py
 - EVM
 
 #### Version control and Utilities
