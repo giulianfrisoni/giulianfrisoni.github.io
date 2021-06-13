@@ -1,4 +1,4 @@
-## Hello i am Giulian i am a Software developer that loves to be challenged by new thecnologies, ideas and projects, i am crypto enthusiast with a love for  a good hike and photography.
+## Hello i am Giulian i am a Software developer that loves to be challenged by new technologies, ideas and projects, i am crypto enthusiast with a love for  a good hike and photography.
 
 
 ---
