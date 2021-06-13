@@ -28,7 +28,7 @@
 
 ---
 ### Skills
--Programming Languages
---C#.NET; SQL; JavaScript,Prodigy; HTML,Progress 4GL
--Version control
---Visual Studio; VIsual Code,GIT, Electronic Data Interchange
+- Programming Languages
+-- C#.NET; SQL; JavaScript,Prodigy; HTML,Progress 4GL
+- Version control
+-- Visual Studio; VIsual Code,GIT, Electronic Data Interchange
