@@ -2,14 +2,14 @@ title: Giulian Frisoni # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 Software Developer
-    <br><br>
-  Mexico 
-    <br><br>
-  Email giulianfrisoni@gmail.com
-    <br><br>
-  <a href="https://www.linkedin.com/in/giulian-frisoni-lopez-735923126/">View My LinkedIn Profile</a> 
-    <br><br>
-  <a href="https://www.flickr.com/photos/giulianfrisoni/">I also love to take photos, so if you got time take a look on my Flickr</a> 
+<br><br>
+Mexico 
+<br><br>
+Email giulianfrisoni@gmail.com
+<br><br>
+<a href="https://www.linkedin.com/in/giulian-frisoni-lopez-735923126/">View My LinkedIn Profile</a> 
+<br><br>
+<a href="https://www.flickr.com/photos/giulianfrisoni/">I also love to take photos, so if you got time take a look on my Flickr</a> 
 
   
 theme: jekyll-theme-minimal
