@@ -36,11 +36,10 @@ Spring 2020 –  Current
 ---
 ### Personal Projects
 - [GameChain Network] E-Sports Gaming ERC20 ETH token and Swap to provide betting and prizing to players ( Solidity, React, nodeJS ) (https://github.com/giulianfrisoni/GameChainSwap)
-- [GlobalchainCare]ERC20 SmartContract based dapp for international Vaccine record personal logging ( Solidity, React, nodeJS ) (http://example.com/)
+- [BLockChainExplorer]Block Chain Browser on Materila UI Framework ( React, nodeJS, yarn ) (https://github.com/giulianfrisoni/BlockChainExplorer)
 - [IotPanel] IOT Domotics Software Control Panel( C#,Python and MQTT protocol )(https://github.com/giulianfrisoni/Iot-Panel)
-- [Knolechain]Social Knowledge sharing network ( Solidity, React, nodeJS ) (http://example.com/)
 - [mqttme]MQTT protocol server control tool ( C# and MQTT protocol )(https://github.com/giulianfrisoni/MQTTme)
-
+- [GlobalchainCare]ERC20 SmartContract based dapp for international Vaccine record personal logging ( Solidity, React, nodeJS ) (http://example.com/)
 ---
 ### Skills
 #### Programming Languages
